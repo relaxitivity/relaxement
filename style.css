@@ -1,0 +1,20 @@
+
+.parent{
+    height: 1000px;
+    background-color:rgb(0, 104, 130);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.child{
+    
+    height: 200px;
+    width: 200px;
+    background-color: red,orange,green,yellow;
+
+}
+.child1
+{
+   background-color: bisque ;
+   flex-direction: row ;
+}
